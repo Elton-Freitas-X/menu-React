@@ -14,7 +14,7 @@ function Header() {
         <HeaderStyled>
             <LogoStyled>
                 <a>
-                <img src={logo} alt='logo Marvel' width="100px" />
+                <img src={logo} alt='logo Marvel' width="50px" />
                 </a>
             </LogoStyled>  
             
